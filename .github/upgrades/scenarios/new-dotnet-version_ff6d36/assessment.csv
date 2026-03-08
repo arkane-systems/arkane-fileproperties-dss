@@ -1,0 +1,3 @@
+Issue ID,Description,State,Severity,Story Points,Project Path,Location Kind,Path,Line,Column,Incident ID,Help Link,Assembly Name,Assembly Version,Assembly Public Key,Snippet
+Project.0001,Project file needs to be converted to SDK-style,Active,Mandatory,1,Arkane.FileProperties.Dss.csproj,File,Arkane.FileProperties.Dss.csproj,,,,,,,,
+Project.0002,Project's target framework(s) needs to be changed,Active,Mandatory,1,Arkane.FileProperties.Dss.csproj,File,Arkane.FileProperties.Dss.csproj,,,,,,,,"Current target framework: .NETFramework,Version=v4.8 Recommended target framework: net10.0"
